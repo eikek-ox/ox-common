@@ -6,4 +6,3 @@ deb http://software.open-xchange.com/products/appsuite/stable/backend/DebianStre
 # packages get installed
 # deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/appsuiteui/updates/DebianStretch /
 # deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/backend/updates/DebianStretch /
-EOF
