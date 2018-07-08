@@ -4,7 +4,8 @@ RUN  apt-get update && apt-get -y install \
    wget netcat \
    apt-transport-https ca-certificates \
    gnupg2 curl \
-   git wget sudo netcat vim less net-tools 
+   git wget sudo netcat vim less net-tools \
+   pwgen
 
 #RUN wget https://software.open-xchange.com/oxbuildkey.pub -O - | apt-key add -
 RUN curl https://software.open-xchange.com/oxbuildkey.pub | apt-key add -
