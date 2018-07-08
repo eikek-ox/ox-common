@@ -1,8 +1,9 @@
-deb https://software.open-xchange.com/products/appsuite/stable/appsuiteui/DebianJessie/ /
-deb https://software.open-xchange.com/products/appsuite/stable/backend/DebianJessie/ /
+deb http://software.open-xchange.com/products/appsuite/stable/appsuiteui/DebianStretch/ /
+deb http://software.open-xchange.com/products/appsuite/stable/backend/DebianStretch/ /
 
-# if you have a valid maintenance subscription, please uncomment the 
+# if you have a valid maintenance subscription, please uncomment the
 # following and add the ldb account data to the url so that the most recent
 # packages get installed
-# deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/appsuiteui/updates/DebianWheezy /
-# deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/backend/updates/DebianWheezy /
+# deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/appsuiteui/updates/DebianStretch /
+# deb http://[CUSTOMERID:PASSWORD]@software.open-xchange.com/products/appsuite/stable/backend/updates/DebianStretch /
+EOF
